@@ -1,1 +1,2 @@
 S IS SUPER
+addition to the file to merge conflict
